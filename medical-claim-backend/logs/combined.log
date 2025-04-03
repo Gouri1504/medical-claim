@@ -1,0 +1,1060 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T19:49:29.197Z"}
+{"level":"error","message":"Email service error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3057ca1f778sm32208a91.2 - gsmtp","timestamp":"2025-04-02T19:49:35.329Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T19:49:37.670Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T19:51:04.026Z"}
+{"level":"error","message":"Email service error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2291eeca203sm112728945ad.30 - gsmtp","timestamp":"2025-04-02T19:51:08.750Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T19:51:10.186Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:11:43.688Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T20:11:49.125Z"}
+{"level":"error","message":"Email service error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2291f1dee68sm112934165ad.205 - gsmtp","timestamp":"2025-04-02T20:11:49.876Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:12:14.541Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T20:12:17.502Z"}
+{"level":"error","message":"Email service error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2291f1deec2sm113340095ad.187 - gsmtp","timestamp":"2025-04-02T20:12:17.879Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:16:07.290Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:16:10.794Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T20:16:10.923Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:18:42.791Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:18:47.776Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T20:18:48.571Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:21:08.685Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:21:16.267Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T20:21:20.036Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:35:51.455Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T20:35:53.265Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:35:54.013Z"}
+{"level":"error","message":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/body-parser/lib/read.js:85:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at invokeCallback (/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/raw-body/index.js:238:16)\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-04-02T20:37:03.517Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:37:11.648Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T20:37:12.859Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:37:13.427Z"}
+{"level":"error","message":"Error uploading file to S3: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T20:48:06.943Z"}
+{"level":"error","message":"Claim Upload Error: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T20:48:06.944Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:53:31.169Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T20:53:32.347Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:53:32.989Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:53:43.025Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T20:53:43.910Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:53:45.579Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:53:54.223Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T20:53:55.114Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:53:56.659Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:54:07.420Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T20:54:08.421Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:54:09.782Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T20:55:52.626Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T20:55:53.647Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T20:55:54.489Z"}
+{"level":"error","message":"Error uploading file to S3: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T20:58:10.991Z"}
+{"level":"error","message":"Claim Upload Error: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T20:58:10.992Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:08:41.156Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:08:42.352Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:08:42.880Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:08:44.365Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:08:45.225Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:08:47.048Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:08:59.939Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:09:00.941Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:09:02.866Z"}
+{"level":"error","message":"Error uploading file to S3: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:09:13.104Z"}
+{"level":"error","message":"Claim Upload Error: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:09:13.105Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:10:19.025Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:10:20.218Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:10:20.578Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:10:21.501Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:10:22.268Z"}
+{"level":"error","message":"Error uploading file to S3: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:10:33.501Z"}
+{"level":"error","message":"Claim Upload Error: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:10:33.502Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:15:07.230Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:15:08.247Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:15:09.023Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:15:29.174Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:15:30.106Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:15:31.647Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:15:35.149Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:15:35.951Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:15:36.837Z"}
+{"level":"error","message":"Get Upload URL Error: The \"path\" argument must be of type string. Received undefined","timestamp":"2025-04-02T21:16:22.855Z"}
+{"level":"error","message":"Get Upload URL Error: The \"path\" argument must be of type string. Received undefined","timestamp":"2025-04-02T21:17:56.345Z"}
+{"level":"error","message":"Get Upload URL Error: The \"path\" argument must be of type string. Received undefined","timestamp":"2025-04-02T21:19:27.254Z"}
+{"level":"error","message":"Error generating upload signed URL: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:20:53.835Z"}
+{"level":"error","message":"Get Upload URL Error: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:20:53.836Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:21:36.542Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:21:37.580Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:21:38.909Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:22:21.617Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:22:22.506Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:22:24.213Z"}
+{"level":"error","message":"Error generating upload signed URL: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:22:31.442Z"}
+{"level":"error","message":"Get Upload URL Error: Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1","timestamp":"2025-04-02T21:22:31.444Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:26:03.958Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:26:04.914Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:26:05.765Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:26:37.456Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:26:38.279Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:26:39.271Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:26:59.736Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:27:00.613Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:27:02.255Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:27:06.418Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:27:07.476Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:27:08.780Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:28:00.899Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:28:01.988Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:28:02.630Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:28:03.904Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:28:04.757Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:28:05.620Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:28:06.955Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:28:07.847Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:28:09.454Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:28:15.005Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:28:15.973Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:28:17.039Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:28:27.680Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:28:28.596Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:28:30.191Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:28:30.905Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:28:31.854Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:28:33.431Z"}
+{"level":"error","message":"Error getting temporary credentials: Missing required key 'IdentityPoolId' in params","timestamp":"2025-04-02T21:28:57.912Z"}
+{"level":"error","message":"Error generating upload signed URL: Missing required key 'IdentityPoolId' in params","timestamp":"2025-04-02T21:28:57.913Z"}
+{"level":"error","message":"Get Upload URL Error: Missing required key 'IdentityPoolId' in params","timestamp":"2025-04-02T21:28:57.913Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:41:51.684Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:41:52.757Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:41:54.363Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:41:57.590Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:41:58.872Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:41:59.902Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:42:14.383Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:42:15.545Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:42:16.955Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:42:23.260Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:42:24.278Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:42:25.098Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:45:54.821Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:45:56.149Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:45:57.178Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:45:58.532Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:46:04.029Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:46:05.497Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:46:06.365Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:46:08.075Z"}
+{"level":"info","message":"Generated local file URL: /uploads/67eda035def5d4a3410f2841","timestamp":"2025-04-02T21:48:15.022Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:50:19.976Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:50:21.241Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:50:21.864Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:50:32.782Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T21:50:33.776Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:50:34.549Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:50:44.256Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T21:50:45.408Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:50:46.185Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:50:55.848Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:50:56.826Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:50:58.349Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T21:54:12.181Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T21:54:13.490Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T21:54:14.926Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: dateOfService: Path `dateOfService` is required., amount: Path `amount` is required., patientName: Path `patientName` is required., fileKey: Path `fileKey` is required.","timestamp":"2025-04-02T21:54:20.372Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: dateOfService: Path `dateOfService` is required., amount: Path `amount` is required., patientName: Path `patientName` is required., fileKey: Path `fileKey` is required.","timestamp":"2025-04-02T21:54:39.432Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: dateOfService: Path `dateOfService` is required., amount: Path `amount` is required., patientName: Path `patientName` is required., fileKey: Path `fileKey` is required.","timestamp":"2025-04-02T21:56:23.965Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: dateOfService: Path `dateOfService` is required., amount: Path `amount` is required., patientName: Path `patientName` is required., fileKey: Path `fileKey` is required.","timestamp":"2025-04-02T21:58:08.470Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: dateOfService: Path `dateOfService` is required., amount: Path `amount` is required., patientName: Path `patientName` is required.","timestamp":"2025-04-02T22:03:48.809Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:05:52.081Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:05:53.215Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:05:54.776Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:06:51.776Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:06:52.546Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:06:53.564Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:06:54.175Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:06:55.103Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:06:57.018Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:07:13.263Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:07:14.275Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:07:14.962Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: dateOfService: Path `dateOfService` is required., amount: Path `amount` is required., patientName: Path `patientName` is required.","timestamp":"2025-04-02T22:07:16.942Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:08:59.979Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:09:01.050Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:09:02.129Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:09:03.019Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:09:03.911Z"}
+{"level":"error","message":"AI Processing Error (Attempt 1/3): getSignedUrl is not a function","timestamp":"2025-04-02T22:09:07.813Z"}
+{"level":"error","message":"AI Processing Error (Attempt 2/3): getSignedUrl is not a function","timestamp":"2025-04-02T22:09:12.815Z"}
+{"level":"error","message":"AI Processing Error (Attempt 3/3): getSignedUrl is not a function","timestamp":"2025-04-02T22:09:22.819Z"}
+{"level":"error","message":"AI Processing Error (Attempt 4/3): getSignedUrl is not a function","timestamp":"2025-04-02T22:09:37.823Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edb583697f3b185469106b: getSignedUrl is not a function","timestamp":"2025-04-02T22:09:37.824Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:18:08.304Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:18:09.444Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:18:10.554Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:18:11.862Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-02T22:18:17.610Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-02T22:18:19.076Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:24:24.995Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:24:26.094Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:24:27.519Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:24:29.203Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:24:30.616Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:24:31.160Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:25:43.847Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:25:45.086Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:25:45.559Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edb9bbd79099ac810073a2: aiService.processDocument is not a function","timestamp":"2025-04-02T22:27:08.217Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:27:45.135Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:27:46.194Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:27:47.067Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:28:06.719Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:28:07.659Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:28:09.189Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:28:16.609Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:28:17.464Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:28:18.358Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-02T22:28:25.226Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edba18940d38837ae297ea: aiService.processDocument is not a function","timestamp":"2025-04-02T22:28:40.323Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:29:23.429Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:29:24.646Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:29:25.617Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:29:26.345Z"}
+{"level":"error","message":"OCR Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:29:58.108Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:29:58.109Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:29:58.109Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edba63cfb9f2d5ec7e841a: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:29:58.109Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:31:36.360Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:31:37.392Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:31:38.238Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:31:39.967Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:37:04.672Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:37:05.784Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:37:07.418Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:37:21.877Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:37:22.803Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:37:23.568Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:37:50.817Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:37:51.750Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:37:52.619Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:37:54.209Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:38:00.856Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:38:01.661Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:38:03.400Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:38:12.189Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:38:13.112Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:38:14.795Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:38:23.805Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:38:24.591Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:38:25.639Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:38:57.432Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:38:58.396Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:38:59.239Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:39:15.868Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:39:16.801Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:39:18.351Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:39:55.614Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:39:55.615Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:39:55.619Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:39:55.743Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:40:08.438Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:40:08.439Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:40:08.441Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:40:08.519Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:40:42.425Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:40:42.426Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:40:42.427Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:40:42.566Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:41:13.743Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:41:13.744Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:41:13.745Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:41:13.855Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:41:21.979Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:41:21.979Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:41:21.980Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:41:22.063Z"}
+{"level":"error","message":"OCR Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:41:22.585Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:41:22.586Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:41:22.586Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edbd126f6101d39a63add0: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf'","timestamp":"2025-04-02T22:41:22.586Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:41:26.276Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:41:26.277Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:41:26.278Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:41:26.397Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:41:32.840Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:41:32.841Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:41:32.842Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:41:32.915Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:41:36.147Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:41:36.147Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:41:36.149Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:41:36.307Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:41:46.454Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:41:46.455Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:41:46.457Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:41:46.559Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:43:23.699Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:43:23.700Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:43:23.701Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:43:23.775Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:44:21.232Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:44:21.233Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:44:21.234Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:44:21.324Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-02T22:44:21.406Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:44:52.918Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:44:52.918Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:44:52.920Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:44:52.995Z"}
+{"level":"error","message":"OCR Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:44:53.411Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:44:53.411Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:44:53.412Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edbde46f6101d39a63ade1: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:44:53.412Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:47:11.486Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:47:12.557Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:47:13.295Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:47:14.905Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:47:15.808Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:47:17.454Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:47:44.291Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:47:44.291Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:47:44.293Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:47:44.413Z"}
+{"level":"error","message":"OCR Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:47:44.856Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:47:44.856Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:47:44.857Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edbe9019551ad23f83de77: ENOENT: no such file or directory, open 'claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:47:44.857Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:48:38.456Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:48:39.486Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:48:40.321Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:49:00.242Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:49:01.052Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:49:02.859Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:49:08.022Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:49:08.023Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:49:08.024Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:49:08.104Z"}
+{"level":"error","message":"OCR Error: ENOENT: no such file or directory, open '../../uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:49:08.580Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open '../../uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:49:08.581Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open '../../uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:49:08.581Z"}
+{"level":"error","message":"AI Processing Error for Claim 67edbee4387988607672fc06: ENOENT: no such file or directory, open '../../uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-02T22:49:08.581Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:49:22.900Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:49:23.801Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:49:24.675Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:50:07.205Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:50:08.328Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:50:09.825Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:50:28.095Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-02T22:50:28.979Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:50:29.815Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:50:31.258Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:50:32.205Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:50:33.760Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:51:06.443Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:51:06.444Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:51:06.446Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:51:06.534Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-02T22:51:06.900Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-02T22:51:06.901Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:52:17.013Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:52:18.200Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:52:19.651Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:52:20.413Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-02T22:52:21.305Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:52:22.295Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:52:40.472Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:52:41.482Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-02T22:52:42.616Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-02T22:52:43.519Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-02T22:52:45.221Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-02T22:52:55.794Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-02T22:52:55.795Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-02T22:52:55.797Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-02T22:52:55.900Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-02T22:52:56.180Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-02T22:52:56.181Z"}
+{"level":"info","message":"Processing file as image with OCR","timestamp":"2025-04-02T22:52:56.184Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:27:45.154Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T04:27:47.433Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-03T04:27:47.502Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:27:58.329Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-03T04:28:00.291Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T04:28:00.471Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:28:09.105Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T04:28:11.179Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-03T04:28:11.950Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:28:16.806Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:28:16.806Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:28:16.807Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:28:16.994Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-03T04:28:17.200Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:28:33.780Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:28:33.781Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:28:33.782Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:28:33.934Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:28:34.443Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:28:34.443Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:28:34.446Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T04:28:34.499Z"}
+{"level":"error","message":"Document Processing Error: bad XRef entry","timestamp":"2025-04-03T04:28:34.500Z"}
+{"level":"error","message":"Document processing failed: bad XRef entry","timestamp":"2025-04-03T04:28:34.500Z"}
+{"level":"error","message":"AI Processing Error for Claim 67ee0e711a7029ca4601e49f: bad XRef entry","timestamp":"2025-04-03T04:28:34.500Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:29:19.402Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:29:21.339Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T04:29:23.017Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-03T04:29:24.763Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:29:48.730Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:29:48.731Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:29:48.733Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:29:48.884Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:29:49.226Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:29:49.227Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:29:49.231Z"}
+{"level":"warn","message":"Data validation warnings: Claim type not found","timestamp":"2025-04-03T04:29:49.297Z"}
+{"level":"warn","message":"Data validation warnings: Claim type not found","timestamp":"2025-04-03T04:29:49.297Z"}
+{"level":"warn","message":"Data validation warnings: Claim type not found","timestamp":"2025-04-03T04:29:49.297Z"}
+{"level":"warn","message":"Data validation warnings: Claim type not found","timestamp":"2025-04-03T04:29:49.297Z"}
+{"level":"error","message":"Email sending failed: No recipients defined","timestamp":"2025-04-03T04:29:51.537Z"}
+{"level":"error","message":"AI Processing Error for Claim 67ee0ebcd74e71637b461a59: No recipients defined","timestamp":"2025-04-03T04:29:51.537Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:33:16.084Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T04:33:17.453Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-03T04:33:18.033Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:33:29.449Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T04:33:31.650Z"}
+{"level":"info","message":"Email server is ready to send messages","timestamp":"2025-04-03T04:33:31.823Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:34:25.357Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:34:25.357Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:34:25.359Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:34:26.490Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:34:28.360Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:34:28.361Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:34:28.364Z"}
+{"level":"error","message":"Email sending failed: No recipients defined","timestamp":"2025-04-03T04:34:33.254Z"}
+{"level":"error","message":"AI Processing Error for Claim 67ee0fd211839c87472bc069: No recipients defined","timestamp":"2025-04-03T04:34:33.254Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:35:19.971Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:35:21.866Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T04:35:23.516Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:35:31.620Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T04:35:34.340Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:35:37.603Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:35:37.603Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:35:37.606Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:35:37.830Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:35:38.713Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:35:38.714Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:35:38.716Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T04:35:38.769Z"}
+{"level":"error","message":"PDF processing failed: bad XRef entry","timestamp":"2025-04-03T04:35:38.769Z"}
+{"level":"info","message":"Attempting OCR as fallback for PDF","timestamp":"2025-04-03T04:35:38.769Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:36:14.802Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T04:36:17.587Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:36:21.582Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T04:36:23.479Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:36:25.613Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:36:27.018Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T04:36:29.277Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:36:36.309Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:36:36.309Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:36:36.312Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:36:36.501Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:36:36.978Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:36:36.979Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:36:36.981Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T04:36:37.037Z"}
+{"level":"error","message":"PDF processing failed: bad XRef entry","timestamp":"2025-04-03T04:36:37.037Z"}
+{"level":"error","message":"Document Processing Error: Failed to process PDF file","timestamp":"2025-04-03T04:36:37.037Z"}
+{"level":"error","message":"Document processing failed: Failed to process PDF file","timestamp":"2025-04-03T04:36:37.037Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:37:17.833Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T04:37:19.943Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:38:54.573Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:38:54.574Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:38:54.576Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:38:54.718Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-03T04:38:54.868Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:39:09.994Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:39:09.994Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:39:09.996Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:39:10.142Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:39:10.653Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:39:10.653Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:39:10.656Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T04:39:10.707Z"}
+{"level":"error","message":"PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T04:39:10.708Z"}
+{"level":"error","message":"Document Processing Error: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T04:39:10.708Z"}
+{"level":"error","message":"Document processing failed: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T04:39:10.708Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T04:40:18.092Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T04:40:20.243Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:40:22.431Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:40:22.431Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:40:22.434Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:40:22.544Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-03T04:40:22.660Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T04:40:31.299Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T04:40:31.299Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T04:40:31.301Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T04:40:31.516Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:40:32.147Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T04:40:32.148Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T04:40:32.150Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T04:40:32.202Z"}
+{"level":"error","message":"PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T04:40:32.202Z"}
+{"level":"error","message":"Document Processing Error: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T04:40:32.202Z"}
+{"level":"error","message":"Document processing failed: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T04:40:32.202Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:36:35.415Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T05:36:37.986Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:37:26.338Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T05:37:27.977Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T05:37:45.934Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T05:37:45.934Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T05:37:45.936Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T05:37:46.095Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T05:37:46.694Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T05:37:46.696Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T05:37:46.699Z"}
+{"level":"error","message":"PDF Parsing Error: Cannot find module './pdf.js/1.10.100/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:37:46.701Z"}
+{"level":"info","message":"Attempting to read PDF as stream","timestamp":"2025-04-03T05:37:46.702Z"}
+{"level":"error","message":"PDF Recovery Error: bad XRef entry","timestamp":"2025-04-03T05:37:46.757Z"}
+{"level":"error","message":"PDF processing failed: Failed to process PDF: Cannot find module './pdf.js/1.10.100/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:37:46.757Z"}
+{"level":"error","message":"Document Processing Error: PDF processing failed: Failed to process PDF: Cannot find module './pdf.js/1.10.100/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:37:46.757Z"}
+{"level":"error","message":"Document processing failed: PDF processing failed: Failed to process PDF: Cannot find module './pdf.js/1.10.100/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:37:46.757Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:39:24.867Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T05:39:27.983Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T05:39:35.145Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T05:39:35.146Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T05:39:35.148Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T05:39:35.296Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-03T05:39:35.494Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T05:39:50.825Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T05:39:50.825Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T05:39:50.826Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T05:39:50.971Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T05:39:51.463Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T05:39:51.463Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T05:39:51.466Z"}
+{"level":"error","message":"PDF Parsing Error: Cannot find module './pdf.js/2.16.105/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:39:51.468Z"}
+{"level":"info","message":"Attempting to read PDF as stream","timestamp":"2025-04-03T05:39:51.468Z"}
+{"level":"error","message":"PDF Recovery Error: bad XRef entry","timestamp":"2025-04-03T05:39:51.533Z"}
+{"level":"error","message":"PDF processing failed: Failed to process PDF: Cannot find module './pdf.js/2.16.105/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:39:51.533Z"}
+{"level":"error","message":"Document Processing Error: PDF processing failed: Failed to process PDF: Cannot find module './pdf.js/2.16.105/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:39:51.533Z"}
+{"level":"error","message":"Document processing failed: PDF processing failed: Failed to process PDF: Cannot find module './pdf.js/2.16.105/build/pdf.js'\nRequire stack:\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/lib/pdf-parse.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/node_modules/pdf-parse/index.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/routes/claimRoutes.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/app.js\n- /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/server.js","timestamp":"2025-04-03T05:39:51.533Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:40:27.403Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T05:40:29.387Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:40:32.243Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T05:40:33.726Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:40:34.146Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T05:40:35.667Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:40:43.574Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T05:40:45.820Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T05:40:47.479Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T05:40:49.711Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T05:41:01.107Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T05:41:01.107Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T05:41:01.110Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T05:41:01.240Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T05:41:01.768Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T05:41:01.769Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T05:41:01.771Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T05:41:01.826Z"}
+{"level":"info","message":"Attempting to read PDF as stream","timestamp":"2025-04-03T05:41:01.826Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:25:41.293Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:25:43.199Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:25:44.330Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T06:25:46.175Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:25:48.514Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T06:25:50.064Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T06:26:12.987Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T06:26:12.987Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T06:26:12.989Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T06:26:13.135Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:26:13.540Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:26:13.540Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T06:26:13.544Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:27:00.040Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T06:27:02.477Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:27:05.882Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T06:27:07.311Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T06:27:14.146Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T06:27:14.147Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T06:27:14.149Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T06:27:14.386Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:27:14.912Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:27:14.913Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T06:27:14.916Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T06:27:14.972Z"}
+{"level":"error","message":"PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T06:27:14.972Z"}
+{"level":"error","message":"Document Processing Error: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T06:27:14.972Z"}
+{"level":"error","message":"Document processing failed: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T06:27:14.972Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:27:30.883Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T06:27:32.962Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T06:27:41.887Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T06:27:41.887Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T06:27:41.888Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T06:27:42.132Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:27:42.819Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:27:42.820Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T06:27:42.823Z"}
+{"level":"error","message":"PDF Parsing Error: bad XRef entry","timestamp":"2025-04-03T06:27:42.878Z"}
+{"level":"error","message":"PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T06:27:42.878Z"}
+{"level":"error","message":"Document Processing Error: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T06:27:42.878Z"}
+{"level":"error","message":"Document processing failed: PDF processing failed: Failed to process PDF: bad XRef entry","timestamp":"2025-04-03T06:27:42.878Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:28:29.370Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T06:28:31.627Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:28:42.352Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T06:28:43.552Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T06:28:45.287Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T06:28:58.217Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T06:28:58.217Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T06:28:58.219Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T06:28:58.528Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:28:59.224Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T06:28:59.225Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T06:28:59.229Z"}
+{"level":"error","message":"PDF Parsing Error: page.getTextContent is not a function","timestamp":"2025-04-03T06:28:59.238Z"}
+{"level":"info","message":"Attempting OCR as fallback","timestamp":"2025-04-03T06:28:59.239Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T08:37:27.509Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T08:37:34.135Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T08:37:34.829Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T08:37:36.100Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T08:37:39.695Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:26:26.151Z"}
+{"level":"info","message":"Python service health check: healthy","timestamp":"2025-04-03T09:26:26.161Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:26:28.582Z"}
+{"level":"info","message":"Python service health check: healthy","timestamp":"2025-04-03T09:26:28.587Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T09:26:31.902Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:27:08.823Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:27:08.823Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:27:08.825Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:27:08.883Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:27:09.054Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:27:09.055Z"}
+{"level":"info","message":"Processing file as PDF","timestamp":"2025-04-03T09:27:09.059Z"}
+{"code":"ERR_INVALID_ARG_VALUE","level":"error","message":"Error processing PDF: The argument 'path' must be a string, Uint8Array, or URL without null bytes. Received <Buffer 25 50 44 46 2d 31 2e 33 0a 33 20 30 20 6f 62 6a 0a 3c 3c 2f 54 79 70 65 20 2f 50 61 67 65 0a 2f 50 61 72 65 6e 74 20 31 ...","stack":"TypeError [ERR_INVALID_ARG_VALUE]: The argument 'path' must be a string, Uint8Array, or URL without null bytes. Received <Buffer 25 50 44 46 2d 31 2e 33 0a 33 20 30 20 6f 62 6a 0a 3c 3c 2f 54 79 70 65 20 2f 50 61 67 65 0a 2f 50 61 72 65 6e 74 20 31 ...\n    at new ReadStream (node:internal/fs/streams:185:5)\n    at Object.createReadStream (node:fs:3160:10)\n    at DocumentProcessor.extractTextFromPDF (/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js:88:40)\n    at DocumentProcessor.processDocument (/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/documentProcessor.js:265:39)\n    at AIService.processDocument (/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/services/aiService.js:41:52)\n    at async processClaimWithAI (/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/src/controllers/claimController.js:261:24)","timestamp":"2025-04-03T09:27:09.061Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:28:21.744Z"}
+{"level":"info","message":"Python service health check: healthy","timestamp":"2025-04-03T09:28:21.749Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:28:23.155Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:28:25.104Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:28:29.545Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:28:30.412Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T09:28:33.479Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:34:13.666Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:34:13.666Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:34:13.668Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:34:13.716Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:34:13.885Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:34:13.886Z"}
+{"level":"info","message":"Processing document with key: %PDF-1.3\n3 0 obj\n<</Type /Page\n/Parent 1 0 R\n/Resources 2 0 R\n/Contents 4 0 R>>\nendobj\n4 0 obj\n<</Filter /FlateDecode /Length 527>>\nstream\nx���ˎ�0\u0014���\u0014g�.8�\u0015\u001bv�I\"e�F#�YW\u000e63��\"p���k �ƭT�\u0005��;�����\u0003A����c\u0001��\u0014(CB��`SL��d(\u0014�L�RPX��5?\u001c<�L���+ύk�G(�_��\"�@�\f�\"\u001d�\u0000�u\u000eNXU\u0019f\u0013��H�R49J\u001b�\"#���p��@���s�]{������\u001cݐ��Br\u001e\u0011�f��L�\u0018_��`o\u001a�ói\u001d\u001c�ڿǌ\u0014H�,��;�>\u0007At�\u0013+��4��k�\u001dt\u0015\u001c�p\tu��\b\u0013\t�\t����B.f���?�9��\u001f����6�f\u0007&-�m}r���Ρ�F��R.��U�\t�����/?��;\u000b�F����1_2\u0000��6om7֡���\u001c��春7q18�'�s��l]�\twm��0%zOЕ�\u000b��\u0007���\u0005SȖ\u001c�\u001d�\f]�Ʊn��:�\b��ƌ�\u0012�F���\u0018P�_�����}@b��`������2!<�$�(G�o�f\u0018��_�0�Q��b�4�\u0012�v�λPN�^�\u0010\u001e\u0003��\u0017�1�Bz]��`�cX\u0011\u0015�C�#I�0�D�2M2�y�1a�5�G^�W�1�z�ͧ��\u0010ku�5,4\u000b��H�5#\u0004�r\u001b^{�?�\u001f��\"%\nendstream\nendobj\n1 0 obj\n<</Type /Pages\n/Kids [3 0 R ]\n/Count 1\n/MediaBox [0 0 595.28 841.89]\n>>\nendobj\n5 0 obj\n<</Type /Font\n/BaseFont /Helvetica\n/Subtype /Type1\n/Encoding /WinAnsiEncoding\n>>\nendobj\n2 0 obj\n<<\n/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]\n/Font <<\n/F1 5 0 R\n>>\n/XObject <<\n>>\n>>\nendobj\n6 0 obj\n<<\n/Producer (PyFPDF 1.7.2 http://pyfpdf.googlecode.com/)\n/CreationDate (D:20250402204623)\n>>\nendobj\n7 0 obj\n<<\n/Type /Catalog\n/Pages 1 0 R\n/OpenAction [3 0 R /FitH null]\n/PageLayout /OneColumn\n>>\nendobj\nxref\n0 8\n0000000000 65535 f \n0000000684 00000 n \n0000000867 00000 n \n0000000009 00000 n \n0000000087 00000 n \n0000000771 00000 n \n0000000971 00000 n \n0000001080 00000 n \ntrailer\n<<\n/Size 8\n/Root 7 0 R\n/Info 6 0 R\n>>\nstartxref\n1183\n%%EOF\n","timestamp":"2025-04-03T09:34:13.889Z"}
+{"level":"info","message":"Reading file from path: %PDF-1.3\n3 0 obj\n<</Type /Page\n/Parent 1 0 R\n/Resources 2 0 R\n/Contents 4 0 R>>\nendobj\n4 0 obj\n<</Filter /FlateDecode /Length 527>>\nstream\nx���ˎ�0\u0014���\u0014g�.8�\u0015\u001bv�I\"e�F#�YW\u000e63��\"p���k �ƭT�\u0005��;�����\u0003A����c\u0001��\u0014(CB��`SL��d(\u0014�L�RPX��5?\u001c<�L���+ύk�G(�_��\"�@�\f�\"\u001d�\u0000�u\u000eNXU\u0019f\u0013��H�R49J\u001b�\"#���p��@���s�]{������\u001cݐ��Br\u001e\u0011�f��L�\u0018_��`o\u001a�ói\u001d\u001c�ڿǌ\u0014H�,��;�>\u0007At�\u0013+��4��k�\u001dt\u0015\u001c�p\tu��\b\u0013\t�\t����B.f���?�9��\u001f����6�f\u0007&-�m}r���Ρ�F��R.��U�\t�����/?��;\u000b�F����1_2\u0000��6om7֡���\u001c��春7q18�'�s��l]�\twm��0%zOЕ�\u000b��\u0007���\u0005SȖ\u001c�\u001d�\f]�Ʊn��:�\b��ƌ�\u0012�F���\u0018P�_�����}@b��`������2!<�$�(G�o�f\u0018��_�0�Q��b�4�\u0012�v�λPN�^�\u0010\u001e\u0003��\u0017�1�Bz]��`�cX\u0011\u0015�C�#I�0�D�2M2�y�1a�5�G^�W�1�z�ͧ��\u0010ku�5,4\u000b��H�5#\u0004�r\u001b^{�?�\u001f��\"%\nendstream\nendobj\n1 0 obj\n<</Type /Pages\n/Kids [3 0 R ]\n/Count 1\n/MediaBox [0 0 595.28 841.89]\n>>\nendobj\n5 0 obj\n<</Type /Font\n/BaseFont /Helvetica\n/Subtype /Type1\n/Encoding /WinAnsiEncoding\n>>\nendobj\n2 0 obj\n<<\n/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]\n/Font <<\n/F1 5 0 R\n>>\n/XObject <<\n>>\n>>\nendobj\n6 0 obj\n<<\n/Producer (PyFPDF 1.7.2 http://pyfpdf.googlecode.com/)\n/CreationDate (D:20250402204623)\n>>\nendobj\n7 0 obj\n<<\n/Type /Catalog\n/Pages 1 0 R\n/OpenAction [3 0 R /FitH null]\n/PageLayout /OneColumn\n>>\nendobj\nxref\n0 8\n0000000000 65535 f \n0000000684 00000 n \n0000000867 00000 n \n0000000009 00000 n \n0000000087 00000 n \n0000000771 00000 n \n0000000971 00000 n \n0000001080 00000 n \ntrailer\n<<\n/Size 8\n/Root 7 0 R\n/Info 6 0 R\n>>\nstartxref\n1183\n%%EOF\n","timestamp":"2025-04-03T09:34:13.890Z"}
+{"level":"info","message":"Processing file as image","timestamp":"2025-04-03T09:34:13.891Z"}
+{"level":"error","message":"Error processing document: The argument 'path' must be a string, Uint8Array, or URL without null bytes. Received <Buffer 25 50 44 46 2d 31 2e 33 0a 33 20 30 20 6f 62 6a 0a 3c 3c 2f 54 79 70 65 20 2f 50 61 67 65 0a 2f 50 61 72 65 6e 74 20 31 ...","timestamp":"2025-04-03T09:34:13.899Z"}
+{"level":"error","message":"Document Processing Error: The argument 'path' must be a string, Uint8Array, or URL without null bytes. Received <Buffer 25 50 44 46 2d 31 2e 33 0a 33 20 30 20 6f 62 6a 0a 3c 3c 2f 54 79 70 65 20 2f 50 61 67 65 0a 2f 50 61 72 65 6e 74 20 31 ...","timestamp":"2025-04-03T09:34:13.900Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:34:59.350Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T09:35:02.516Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:35:27.306Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:35:27.306Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:35:27.308Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:35:27.369Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:35:27.533Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:35:27.533Z"}
+{"level":"info","message":"Processing document with key: %PDF-1.3\n3 0 obj\n<</Type /Page\n/Parent 1 0 R\n/Resources 2 0 R\n/Contents 4 0 R>>\nendobj\n4 0 obj\n<</Filter /FlateDecode /Length 527>>\nstream\nx���ˎ�0\u0014���\u0014g�.8�\u0015\u001bv�I\"e�F#�YW\u000e63��\"p���k �ƭT�\u0005��;�����\u0003A����c\u0001��\u0014(CB��`SL��d(\u0014�L�RPX��5?\u001c<�L���+ύk�G(�_��\"�@�\f�\"\u001d�\u0000�u\u000eNXU\u0019f\u0013��H�R49J\u001b�\"#���p��@���s�]{������\u001cݐ��Br\u001e\u0011�f��L�\u0018_��`o\u001a�ói\u001d\u001c�ڿǌ\u0014H�,��;�>\u0007At�\u0013+��4��k�\u001dt\u0015\u001c�p\tu��\b\u0013\t�\t����B.f���?�9��\u001f����6�f\u0007&-�m}r���Ρ�F��R.��U�\t�����/?��;\u000b�F����1_2\u0000��6om7֡���\u001c��春7q18�'�s��l]�\twm��0%zOЕ�\u000b��\u0007���\u0005SȖ\u001c�\u001d�\f]�Ʊn��:�\b��ƌ�\u0012�F���\u0018P�_�����}@b��`������2!<�$�(G�o�f\u0018��_�0�Q��b�4�\u0012�v�λPN�^�\u0010\u001e\u0003��\u0017�1�Bz]��`�cX\u0011\u0015�C�#I�0�D�2M2�y�1a�5�G^�W�1�z�ͧ��\u0010ku�5,4\u000b��H�5#\u0004�r\u001b^{�?�\u001f��\"%\nendstream\nendobj\n1 0 obj\n<</Type /Pages\n/Kids [3 0 R ]\n/Count 1\n/MediaBox [0 0 595.28 841.89]\n>>\nendobj\n5 0 obj\n<</Type /Font\n/BaseFont /Helvetica\n/Subtype /Type1\n/Encoding /WinAnsiEncoding\n>>\nendobj\n2 0 obj\n<<\n/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]\n/Font <<\n/F1 5 0 R\n>>\n/XObject <<\n>>\n>>\nendobj\n6 0 obj\n<<\n/Producer (PyFPDF 1.7.2 http://pyfpdf.googlecode.com/)\n/CreationDate (D:20250402204623)\n>>\nendobj\n7 0 obj\n<<\n/Type /Catalog\n/Pages 1 0 R\n/OpenAction [3 0 R /FitH null]\n/PageLayout /OneColumn\n>>\nendobj\nxref\n0 8\n0000000000 65535 f \n0000000684 00000 n \n0000000867 00000 n \n0000000009 00000 n \n0000000087 00000 n \n0000000771 00000 n \n0000000971 00000 n \n0000001080 00000 n \ntrailer\n<<\n/Size 8\n/Root 7 0 R\n/Info 6 0 R\n>>\nstartxref\n1183\n%%EOF\n","timestamp":"2025-04-03T09:35:27.536Z"}
+{"level":"info","message":"Reading file from path: %PDF-1.3\n3 0 obj\n<</Type /Page\n/Parent 1 0 R\n/Resources 2 0 R\n/Contents 4 0 R>>\nendobj\n4 0 obj\n<</Filter /FlateDecode /Length 527>>\nstream\nx���ˎ�0\u0014���\u0014g�.8�\u0015\u001bv�I\"e�F#�YW\u000e63��\"p���k �ƭT�\u0005��;�����\u0003A����c\u0001��\u0014(CB��`SL��d(\u0014�L�RPX��5?\u001c<�L���+ύk�G(�_��\"�@�\f�\"\u001d�\u0000�u\u000eNXU\u0019f\u0013��H�R49J\u001b�\"#���p��@���s�]{������\u001cݐ��Br\u001e\u0011�f��L�\u0018_��`o\u001a�ói\u001d\u001c�ڿǌ\u0014H�,��;�>\u0007At�\u0013+��4��k�\u001dt\u0015\u001c�p\tu��\b\u0013\t�\t����B.f���?�9��\u001f����6�f\u0007&-�m}r���Ρ�F��R.��U�\t�����/?��;\u000b�F����1_2\u0000��6om7֡���\u001c��春7q18�'�s��l]�\twm��0%zOЕ�\u000b��\u0007���\u0005SȖ\u001c�\u001d�\f]�Ʊn��:�\b��ƌ�\u0012�F���\u0018P�_�����}@b��`������2!<�$�(G�o�f\u0018��_�0�Q��b�4�\u0012�v�λPN�^�\u0010\u001e\u0003��\u0017�1�Bz]��`�cX\u0011\u0015�C�#I�0�D�2M2�y�1a�5�G^�W�1�z�ͧ��\u0010ku�5,4\u000b��H�5#\u0004�r\u001b^{�?�\u001f��\"%\nendstream\nendobj\n1 0 obj\n<</Type /Pages\n/Kids [3 0 R ]\n/Count 1\n/MediaBox [0 0 595.28 841.89]\n>>\nendobj\n5 0 obj\n<</Type /Font\n/BaseFont /Helvetica\n/Subtype /Type1\n/Encoding /WinAnsiEncoding\n>>\nendobj\n2 0 obj\n<<\n/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]\n/Font <<\n/F1 5 0 R\n>>\n/XObject <<\n>>\n>>\nendobj\n6 0 obj\n<<\n/Producer (PyFPDF 1.7.2 http://pyfpdf.googlecode.com/)\n/CreationDate (D:20250402204623)\n>>\nendobj\n7 0 obj\n<<\n/Type /Catalog\n/Pages 1 0 R\n/OpenAction [3 0 R /FitH null]\n/PageLayout /OneColumn\n>>\nendobj\nxref\n0 8\n0000000000 65535 f \n0000000684 00000 n \n0000000867 00000 n \n0000000009 00000 n \n0000000087 00000 n \n0000000771 00000 n \n0000000971 00000 n \n0000001080 00000 n \ntrailer\n<<\n/Size 8\n/Root 7 0 R\n/Info 6 0 R\n>>\nstartxref\n1183\n%%EOF\n","timestamp":"2025-04-03T09:35:27.538Z"}
+{"level":"info","message":"Processing file as image","timestamp":"2025-04-03T09:35:27.539Z"}
+{"level":"error","message":"Error processing document: The argument 'path' must be a string, Uint8Array, or URL without null bytes. Received <Buffer 25 50 44 46 2d 31 2e 33 0a 33 20 30 20 6f 62 6a 0a 3c 3c 2f 54 79 70 65 20 2f 50 61 67 65 0a 2f 50 61 72 65 6e 74 20 31 ...","timestamp":"2025-04-03T09:35:27.542Z"}
+{"level":"error","message":"Document Processing Error: The argument 'path' must be a string, Uint8Array, or URL without null bytes. Received <Buffer 25 50 44 46 2d 31 2e 33 0a 33 20 30 20 6f 62 6a 0a 3c 3c 2f 54 79 70 65 20 2f 50 61 67 65 0a 2f 50 61 72 65 6e 74 20 31 ...","timestamp":"2025-04-03T09:35:27.542Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:37:42.955Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:37:46.191Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T09:37:57.770Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:38:08.725Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:38:08.725Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:38:08.727Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:38:08.791Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:38:08.950Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:38:08.951Z"}
+{"level":"info","message":"Processing document: undefined","timestamp":"2025-04-03T09:38:08.954Z"}
+{"level":"info","message":"Processing file as image","timestamp":"2025-04-03T09:38:08.955Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:40:26.932Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:40:29.655Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T09:40:33.065Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:41:19.010Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:41:19.010Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:41:19.012Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:41:19.064Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:41:19.221Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-03T09:41:19.222Z"}
+{"level":"error","message":"Error reading file: ENOENT: no such file or directory, open '/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-03T09:41:19.223Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open '/Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf'","timestamp":"2025-04-03T09:41:19.224Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:41:45.621Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:41:45.622Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:41:45.624Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:41:45.669Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:42:10.086Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:42:10.086Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:42:10.088Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:42:10.133Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-03T09:42:10.182Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:42:23.904Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:42:23.904Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:42:23.906Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:42:23.951Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-03T09:42:23.999Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:42:42.293Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:42:42.293Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:42:42.294Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:42:42.337Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:42:42.495Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:42:42.495Z"}
+{"level":"info","message":"Processing document: undefined","timestamp":"2025-04-03T09:42:42.498Z"}
+{"level":"error","message":"Error processing document: Only PDF files are supported","timestamp":"2025-04-03T09:42:42.498Z"}
+{"level":"error","message":"Document Processing Error: Only PDF files are supported","timestamp":"2025-04-03T09:42:42.498Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:43:57.929Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T09:44:00.579Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:44:16.776Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:44:16.777Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:44:16.779Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:44:16.827Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:44:16.976Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:44:16.977Z"}
+{"level":"info","message":"Processing document: undefined","timestamp":"2025-04-03T09:44:16.979Z"}
+{"level":"error","message":"Error processing document: Only PDF files are supported","timestamp":"2025-04-03T09:44:16.980Z"}
+{"level":"error","message":"Document Processing Error: Only PDF files are supported","timestamp":"2025-04-03T09:44:16.980Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:45:44.200Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T09:45:54.003Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:45:59.706Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T09:46:02.279Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:46:16.603Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:46:16.604Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:46:16.606Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:46:16.658Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:46:16.860Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:46:16.861Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:46:16.865Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:46:16.865Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:46:21.039Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:46:35.586Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T09:46:36.267Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:47:34.009Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:47:34.010Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:47:34.012Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:47:34.066Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:47:34.240Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:47:34.241Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:47:34.244Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:47:34.244Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:47:34.985Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:48:41.211Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:48:41.212Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:48:41.215Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:48:41.270Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:48:41.495Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:48:41.495Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:48:41.496Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:48:41.496Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:48:42.125Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:49:13.193Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:49:13.193Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:49:13.194Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:49:13.243Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:49:13.396Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:49:13.396Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:49:13.397Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:49:13.397Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:49:14.108Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:53:12.153Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:53:12.153Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:53:12.154Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:53:12.200Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:53:12.364Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:53:12.365Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:53:12.367Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:53:12.367Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:53:13.104Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:55:09.133Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:55:09.134Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:55:09.135Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:55:09.186Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:55:09.337Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:55:09.337Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:55:09.339Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:55:09.340Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:55:10.041Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:57:25.612Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T09:57:28.373Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T09:57:31.235Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T09:59:05.496Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T09:59:05.497Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T09:59:05.498Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T09:59:05.552Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:59:05.716Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T09:59:05.716Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T09:59:05.718Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T09:59:05.718Z"}
+{"level":"error","message":"Document processing failed: undefined","timestamp":"2025-04-03T09:59:06.453Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:02:34.061Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:02:34.600Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:02:34.946Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:02:35.606Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:03:01.997Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:03:01.997Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:03:01.999Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:03:02.051Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:03:02.216Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:03:02.216Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:03:02.219Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:03:02.219Z"}
+{"level":"error","message":"AI Validation Error: documentProcessor.validateExtractedData is not a function","timestamp":"2025-04-03T10:03:02.969Z"}
+{"level":"error","message":"Data validation failed: documentProcessor.validateExtractedData is not a function","timestamp":"2025-04-03T10:03:02.969Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:04:01.781Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:04:05.434Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:04:17.228Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:04:19.848Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:04:57.537Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:04:57.537Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:04:57.539Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:04:57.589Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:04:57.743Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:04:57.744Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:04:57.745Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:04:57.746Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:14:54.913Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:14:55.725Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:14:57.982Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:15:01.713Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:15:02.510Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:15:09.000Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:15:09.860Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:15:52.667Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:15:55.216Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:15:55.905Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:15:57.554Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:15:59.070Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:15:59.674Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:16:21.283Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:16:21.284Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:16:21.287Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:16:21.351Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:16:21.535Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:16:21.536Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:16:21.539Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:16:21.540Z"}
+{"level":"info","message":"Claim 67ee5ff5db5be52dd5654577 processed successfully","timestamp":"2025-04-03T10:16:22.364Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:17:28.363Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:17:28.996Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:17:30.489Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:17:31.253Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:17:56.862Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:17:56.863Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:17:56.867Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:17:56.923Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:17:57.127Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:17:57.128Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:17:57.131Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:17:57.131Z"}
+{"level":"info","message":"Claim 67ee60547830fe42441c9612 processed successfully","timestamp":"2025-04-03T10:17:57.901Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:00.319Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:01.255Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:04.065Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:04.847Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:12.134Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:12.732Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:18.571Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:19.252Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:28.075Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:28.645Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:52.589Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:53.202Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:20:53.752Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:20:54.303Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:21:06.913Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:21:06.913Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:21:06.915Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:21:06.977Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:21:07.169Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:21:07.170Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:21:07.172Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:21:07.173Z"}
+{"level":"info","message":"Claim 67ee61124caf2b5378ace47b processed successfully","timestamp":"2025-04-03T10:21:07.984Z"}
+{"level":"error","message":"Processing complete email failed: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:21:08.025Z"}
+{"level":"warn","message":"Failed to send processing complete email: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:21:08.025Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:21:32.613Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:21:33.259Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:21:43.086Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:21:43.652Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:22:05.813Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:22:05.813Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:22:05.815Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:22:05.887Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:22:06.146Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:22:06.147Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:22:06.150Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:22:06.151Z"}
+{"level":"info","message":"Claim 67ee614d164992f29e31e8ea processed successfully","timestamp":"2025-04-03T10:22:06.956Z"}
+{"level":"error","message":"Processing complete email failed: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:22:07.001Z"}
+{"level":"warn","message":"Failed to send processing complete email: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:22:07.001Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:22:51.317Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:22:53.178Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:22:56.807Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:23:03.415Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:23:03.416Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:23:03.418Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:23:03.474Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:23:03.648Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:23:03.648Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:23:03.650Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:23:03.651Z"}
+{"level":"info","message":"Claim 67ee6187ca42510e4f3f8b2b processed successfully","timestamp":"2025-04-03T10:23:04.388Z"}
+{"level":"error","message":"Processing complete email failed: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:23:04.436Z"}
+{"level":"warn","message":"Failed to send processing complete email: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:23:04.436Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:23:54.654Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:23:57.350Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:24:23.543Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:24:24.596Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:24:27.266Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:24:31.424Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:24:31.424Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:24:31.426Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:24:31.490Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:24:31.654Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:24:31.654Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:24:31.657Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:24:31.658Z"}
+{"level":"info","message":"Claim 67ee61df31a473275493dca0 processed successfully","timestamp":"2025-04-03T10:24:32.569Z"}
+{"level":"error","message":"Processing complete email failed: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:24:32.614Z"}
+{"level":"warn","message":"Failed to send processing complete email: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:24:32.615Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:25:11.017Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:25:11.694Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:25:16.097Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:25:18.679Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:25:24.153Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:25:24.154Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:25:24.156Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:25:24.207Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:25:24.372Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:25:24.373Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:25:24.376Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:25:24.376Z"}
+{"level":"info","message":"Claim 67ee6214331ae3bb4bf8169a processed successfully","timestamp":"2025-04-03T10:25:25.131Z"}
+{"level":"error","message":"Processing complete email failed: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:25:25.177Z"}
+{"level":"warn","message":"Failed to send processing complete email: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:25:25.178Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:25:54.968Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:25:55.649Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:25:56.636Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:25:57.273Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:26:25.359Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:26:25.359Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:26:25.361Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:26:25.411Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:26:25.565Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:26:25.566Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:26:25.569Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:26:25.569Z"}
+{"level":"info","message":"Claim 67ee625193908500f22d420b processed successfully","timestamp":"2025-04-03T10:26:26.348Z"}
+{"level":"error","message":"Error sending processing complete email: connect ECONNREFUSED 127.0.0.1:587","timestamp":"2025-04-03T10:26:26.405Z"}
+{"level":"warn","message":"Failed to send processing complete email: connect ECONNREFUSED 127.0.0.1:587","timestamp":"2025-04-03T10:26:26.405Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:27:03.148Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:27:20.005Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:27:33.990Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:27:36.690Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:27:45.127Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:27:45.127Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:27:45.129Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:27:45.183Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:27:45.357Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:27:45.358Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:27:45.360Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:27:45.361Z"}
+{"level":"info","message":"Claim 67ee62a12f3d28873fee70b3 processed successfully","timestamp":"2025-04-03T10:27:46.191Z"}
+{"level":"error","message":"Error sending processing complete email: Missing credentials for \"PLAIN\"","timestamp":"2025-04-03T10:27:47.851Z"}
+{"level":"warn","message":"Failed to send processing complete email: Missing credentials for \"PLAIN\"","timestamp":"2025-04-03T10:27:47.852Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:28:18.867Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:28:20.503Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:28:21.805Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:28:27.340Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:28:28.921Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:28:29.880Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:28:50.901Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:28:50.901Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:28:50.903Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:28:50.999Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:28:51.196Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:28:51.197Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:28:51.201Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:28:51.201Z"}
+{"level":"info","message":"Claim 67ee62e3e51a24514fdf9ac2 processed successfully","timestamp":"2025-04-03T10:28:52.006Z"}
+{"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:28:55.246Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:29:17.144Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:29:17.771Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:29:18.717Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:29:18.978Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:29:20.570Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:29:21.604Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:31:08.667Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:31:10.291Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:31:10.662Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:31:12.975Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:31:13.330Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:31:19.793Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:31:19.794Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:31:19.796Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:31:19.848Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:31:20.010Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:31:20.011Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:31:20.014Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:31:20.015Z"}
+{"level":"info","message":"Claim 67ee63774f851adec166c556 processed successfully","timestamp":"2025-04-03T10:31:20.839Z"}
+{"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:31:24.210Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:31:41.342Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:31:42.984Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:31:43.901Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:31:46.151Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:31:47.755Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:31:48.752Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:31:57.474Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:31:57.475Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:31:57.477Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:31:57.527Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:31:57.690Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:31:57.690Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:31:57.694Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:31:57.694Z"}
+{"level":"info","message":"Claim 67ee639d2306f2601791d913 processed successfully","timestamp":"2025-04-03T10:31:58.430Z"}
+{"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:32:01.675Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:32:08.074Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:32:08.749Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:32:09.776Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:32:32.752Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:32:35.343Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:32:35.452Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:32:54.111Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:32:54.111Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:32:54.112Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:32:54.168Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:32:54.352Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:32:54.352Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:32:54.355Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:32:54.356Z"}
+{"level":"info","message":"Claim 67ee63d691cf5be9ef94d64d processed successfully","timestamp":"2025-04-03T10:32:55.129Z"}
+{"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:32:59.035Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:33:32.049Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-00.2d7l6.mongodb.net","timestamp":"2025-04-03T10:33:33.211Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:33:33.884Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:33:36.665Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-01.2d7l6.mongodb.net","timestamp":"2025-04-03T10:33:37.326Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:33:38.231Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:33:39.138Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:33:39.697Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:33:40.727Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:33:48.950Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:33:48.951Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:33:48.953Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:33:49.017Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:33:49.191Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:33:49.191Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:33:49.194Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:33:49.194Z"}
+{"level":"info","message":"Claim 67ee640d0077954bccd052fb processed successfully","timestamp":"2025-04-03T10:33:49.947Z"}
+{"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:33:53.525Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-03T10:34:32.473Z"}
+{"level":"info","message":"MongoDB Connected: frauddetection-shard-00-02.2d7l6.mongodb.net","timestamp":"2025-04-03T10:34:33.382Z"}
+{"level":"info","message":"Email transporter is ready to send messages","timestamp":"2025-04-03T10:34:34.116Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-03T10:34:51.226Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-03T10:34:51.227Z"}
+{"exp":1743712697,"iat":1743626297,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-03T10:34:51.229Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-03T10:34:51.277Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:34:51.439Z"}
+{"level":"info","message":"Reading file from path: /Users/amanagrawal/Developer/Projects/backend/medical-claim-backend/uploads/claims/67eda035def5d4a3410f2841/1743673305677-295jxb.pdf","timestamp":"2025-04-03T10:34:51.440Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-03T10:34:51.442Z"}
+{"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:34:51.442Z"}
+{"level":"info","message":"Claim 67ee644bde29d3a0edd7df1d processed successfully","timestamp":"2025-04-03T10:34:52.167Z"}
+{"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:34:55.488Z"}

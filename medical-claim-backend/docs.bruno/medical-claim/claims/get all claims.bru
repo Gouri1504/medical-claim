@@ -1,0 +1,19 @@
+meta {
+  name: get all claims
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{base_url}}/api/claims/
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZWRhMDM1ZGVmNWQ0YTM0MTBmMjg0MSIsImlhdCI6MTc0MzYyNjI5NywiZXhwIjoxNzQzNzEyNjk3fQ.IbNigAhMg_9Vf2WJLwYFjofvui3nkyROkULu8HfMWYA
+}
+
+body:multipart-form {
+  fileKey: claims/67eda035def5d4a3410f2841/1743630668036-40246e356cc48d0e.pdf
+}

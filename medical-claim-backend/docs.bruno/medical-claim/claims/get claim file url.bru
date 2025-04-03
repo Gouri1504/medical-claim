@@ -1,0 +1,15 @@
+meta {
+  name: get claim file url
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{base_url}}/api/claims/67edbd126f6101d39a63add0/download
+  body: multipartForm
+  auth: bearer
+}
+
+auth:bearer {
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZWRhMDM1ZGVmNWQ0YTM0MTBmMjg0MSIsImlhdCI6MTc0MzYyNjI5NywiZXhwIjoxNzQzNzEyNjk3fQ.IbNigAhMg_9Vf2WJLwYFjofvui3nkyROkULu8HfMWYA
+}
