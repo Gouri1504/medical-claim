@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, FileText, Calendar, User, DollarSign, Hash } from 'lucide-react';
+import { X, FileText, Calendar, User, DollarSign, Hash, Stethoscope, ClipboardList, Activity } from 'lucide-react';
 
 interface ClaimDetailsProps {
   claim: {
@@ -10,6 +10,15 @@ interface ClaimDetailsProps {
     date: string;
     status: 'Pending' | 'Approved' | 'Rejected';
     previewUrl?: string;
+    extractedData?: {
+      patientName: string;
+      providerName: string;
+      dateOfService: string;
+      amount: number;
+      claimType: string;
+      diagnosisCodes: string[];
+      procedureCodes: string[];
+    };
   };
   onClose: () => void;
 }
@@ -58,40 +67,99 @@ const ClaimDetails: React.FC<ClaimDetailsProps> = ({ claim, onClose }) => {
             </span>
           </div>
 
-          {/* Extracted Information */}
-          <div className="space-y-4">
-            <div className="flex items-center">
-              <User className="h-5 w-5 text-gray-400 mr-3" />
-              <div>
-                <p className="text-sm font-medium text-gray-500">Patient Name</p>
-                <p className="text-base text-gray-900">{claim.patientName}</p>
+          {/* Basic Information */}
+          <div className="mb-6">
+            <h3 className="text-lg font-medium text-gray-900 mb-4">Basic Information</h3>
+            <div className="space-y-4">
+              <div className="flex items-center">
+                <User className="h-5 w-5 text-gray-400 mr-3" />
+                <div>
+                  <p className="text-sm font-medium text-gray-500">Patient Name</p>
+                  <p className="text-base text-gray-900">{claim.patientName}</p>
+                </div>
               </div>
-            </div>
 
-            <div className="flex items-center">
-              <Hash className="h-5 w-5 text-gray-400 mr-3" />
-              <div>
-                <p className="text-sm font-medium text-gray-500">Invoice Number</p>
-                <p className="text-base text-gray-900">{claim.invoiceNumber}</p>
+              <div className="flex items-center">
+                <Hash className="h-5 w-5 text-gray-400 mr-3" />
+                <div>
+                  <p className="text-sm font-medium text-gray-500">Invoice Number</p>
+                  <p className="text-base text-gray-900">{claim.invoiceNumber}</p>
+                </div>
               </div>
-            </div>
 
-            <div className="flex items-center">
-              <DollarSign className="h-5 w-5 text-gray-400 mr-3" />
-              <div>
-                <p className="text-sm font-medium text-gray-500">Amount</p>
-                <p className="text-base text-gray-900">${claim.amount.toFixed(2)}</p>
+              <div className="flex items-center">
+                <DollarSign className="h-5 w-5 text-gray-400 mr-3" />
+                <div>
+                  <p className="text-sm font-medium text-gray-500">Amount</p>
+                  <p className="text-base text-gray-900">${claim.amount ? claim.amount.toFixed(2) : '0.00'}</p>
+                </div>
               </div>
-            </div>
 
-            <div className="flex items-center">
-              <Calendar className="h-5 w-5 text-gray-400 mr-3" />
-              <div>
-                <p className="text-sm font-medium text-gray-500">Date</p>
-                <p className="text-base text-gray-900">{claim.date}</p>
+              <div className="flex items-center">
+                <Calendar className="h-5 w-5 text-gray-400 mr-3" />
+                <div>
+                  <p className="text-sm font-medium text-gray-500">Date</p>
+                  <p className="text-base text-gray-900">{claim.date}</p>
+                </div>
               </div>
             </div>
           </div>
+
+          {/* AI Extracted Data */}
+          {claim.extractedData && (
+            <div className="mb-6">
+              <h3 className="text-lg font-medium text-gray-900 mb-4">AI Extracted Data</h3>
+              <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                <div className="bg-gray-50 p-4 rounded-md">
+                  <h4 className="text-sm font-medium text-gray-500 flex items-center">
+                    <User className="h-4 w-4 mr-2" />
+                    Patient Information
+                  </h4>
+                  <div className="mt-2 space-y-1">
+                    <p className="text-sm text-gray-900">
+                      <span className="font-medium">Name:</span> {claim.extractedData.patientName}
+                    </p>
+                    <p className="text-sm text-gray-900">
+                      <span className="font-medium">Provider:</span> {claim.extractedData.providerName}
+                    </p>
+                    <p className="text-sm text-gray-900">
+                      <span className="font-medium">Date of Service:</span> {claim.extractedData.dateOfService}
+                    </p>
+                    <p className="text-sm text-gray-900">
+                      <span className="font-medium">Amount:</span> ${claim.extractedData.amount}
+                    </p>
+                    <p className="text-sm text-gray-900">
+                      <span className="font-medium">Type:</span> {claim.extractedData.claimType}
+                    </p>
+                  </div>
+                </div>
+
+                <div className="bg-gray-50 p-4 rounded-md">
+                  <h4 className="text-sm font-medium text-gray-500 flex items-center">
+                    <Activity className="h-4 w-4 mr-2" />
+                    Diagnosis Codes
+                  </h4>
+                  <ul className="mt-2 text-sm text-gray-900">
+                    {claim.extractedData.diagnosisCodes.map((code, index) => (
+                      <li key={index} className="mb-1">{code}</li>
+                    ))}
+                  </ul>
+                </div>
+
+                <div className="bg-gray-50 p-4 rounded-md">
+                  <h4 className="text-sm font-medium text-gray-500 flex items-center">
+                    <Stethoscope className="h-4 w-4 mr-2" />
+                    Procedure Codes
+                  </h4>
+                  <ul className="mt-2 text-sm text-gray-900">
+                    {claim.extractedData.procedureCodes.map((code, index) => (
+                      <li key={index} className="mb-1">{code}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </div>

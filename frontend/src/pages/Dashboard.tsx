@@ -146,7 +146,7 @@ const Dashboard: React.FC = () => {
                         </div>
                         <div className="text-right">
                           <p className="text-sm font-medium text-gray-900">
-                            ${claim.amount.toFixed(2)}
+                            ${claim.amount ? claim.amount.toFixed(2) : '0.00'}
                           </p>
                           <p className="text-sm text-gray-500">
                             {new Date(claim.date).toLocaleDateString()}

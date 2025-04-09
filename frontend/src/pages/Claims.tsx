@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import { useDropzone } from 'react-dropzone';
-import { Upload, FileText, Eye, Clock, CheckCircle, XCircle } from 'lucide-react';
+import { Upload, FileText, Eye, Clock, CheckCircle, XCircle, Loader } from 'lucide-react';
 import { claims } from '../services/api';
 import toast from 'react-hot-toast';
 import ClaimDetails from '../components/ClaimDetails';
@@ -13,12 +13,23 @@ interface Claim {
   date: string;
   status: 'Pending' | 'Approved' | 'Rejected';
   previewUrl?: string;
+  extractedData?: {
+    patientName: string;
+    providerName: string;
+    dateOfService: string;
+    amount: number;
+    claimType: string;
+    diagnosisCodes: string[];
+    procedureCodes: string[];
+  };
 }
 
 const Claims: React.FC = () => {
   const [isUploading, setIsUploading] = useState(false);
   const [claimsList, setClaimsList] = useState<Claim[]>([]);
   const [selectedClaim, setSelectedClaim] = useState<Claim | null>(null);
+  const [isProcessing, setIsProcessing] = useState(false);
+  const [extractedData, setExtractedData] = useState<any>(null);
 
   const fetchClaims = useCallback(async () => {
     try {
@@ -39,13 +50,31 @@ const Claims: React.FC = () => {
     setIsUploading(true);
     try {
       const file = acceptedFiles[0];
-      await claims.upload(file);
-      toast.success('Claim uploaded successfully');
-      fetchClaims(); // Refresh the claims list
-    } catch (error) {
-      toast.error('Failed to upload claim');
+      
+      // First, process the PDF to extract data
+      setIsProcessing(true);
+      const processResult = await claims.processPdf(file);
+      
+      if (processResult.success) {
+        setExtractedData(processResult.data);
+        toast.success('PDF processed successfully');
+        
+        // Then upload the file to the server
+        const uploadResult = await claims.upload(file);
+        
+        // If the upload was successful, update the claims list
+        if (uploadResult.success) {
+          toast.success('Claim uploaded successfully');
+          fetchClaims(); // Refresh the claims list
+        }
+      } else {
+        toast.error(`Processing failed: ${processResult.error}`);
+      }
+    } catch (error: any) {
+      toast.error(`Error: ${error.message || 'Failed to process or upload claim'}`);
     } finally {
       setIsUploading(false);
+      setIsProcessing(false);
     }
   }, [fetchClaims]);
 
@@ -53,8 +82,6 @@ const Claims: React.FC = () => {
     onDrop,
     accept: {
       'application/pdf': ['.pdf'],
-      'image/jpeg': ['.jpg', '.jpeg'],
-      'image/png': ['.png'],
     },
     maxFiles: 1,
   });
@@ -78,7 +105,7 @@ const Claims: React.FC = () => {
             Upload Medical Claim
           </h3>
           <div className="mt-2 max-w-xl text-sm text-gray-500">
-            <p>Upload your medical invoice or claim document in PDF, JPG, or PNG format.</p>
+            <p>Upload your medical invoice or claim document in PDF format.</p>
           </div>
           <div
             {...getRootProps()}
@@ -89,11 +116,15 @@ const Claims: React.FC = () => {
             <div className="space-y-1 text-center">
               <input {...getInputProps()} />
               <div className="flex justify-center">
-                <Upload
-                  className={`h-12 w-12 ${
-                    isDragActive ? 'text-indigo-500' : 'text-gray-400'
-                  }`}
-                />
+                {isProcessing ? (
+                  <Loader className="h-12 w-12 text-indigo-500 animate-spin" />
+                ) : (
+                  <Upload
+                    className={`h-12 w-12 ${
+                      isDragActive ? 'text-indigo-500' : 'text-gray-400'
+                    }`}
+                  />
+                )}
               </div>
               <div className="flex text-sm text-gray-600">
                 <label className="relative cursor-pointer rounded-md font-medium text-indigo-600 hover:text-indigo-500 focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
@@ -101,11 +132,48 @@ const Claims: React.FC = () => {
                 </label>
                 <p className="pl-1">or drag and drop</p>
               </div>
-              <p className="text-xs text-gray-500">PDF, PNG, JPG up to 10MB</p>
+              <p className="text-xs text-gray-500">PDF up to 10MB</p>
             </div>
           </div>
         </div>
       </div>
+
+      {/* Display extracted data if available */}
+      {extractedData && (
+        <div className="mt-8 bg-white shadow sm:rounded-lg">
+          <div className="px-4 py-5 sm:p-6">
+            <h3 className="text-lg leading-6 font-medium text-gray-900">
+              Extracted Data
+            </h3>
+            <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2">
+              <div className="bg-gray-50 p-4 rounded-md">
+                <h4 className="text-sm font-medium text-gray-500">Patient Information</h4>
+                <p className="mt-1 text-sm text-gray-900">{extractedData.patientName}</p>
+                <p className="mt-1 text-sm text-gray-900">{extractedData.providerName}</p>
+                <p className="mt-1 text-sm text-gray-900">{extractedData.dateOfService}</p>
+                <p className="mt-1 text-sm text-gray-900">${extractedData.amount}</p>
+                <p className="mt-1 text-sm text-gray-900">Type: {extractedData.claimType}</p>
+              </div>
+              <div className="bg-gray-50 p-4 rounded-md">
+                <h4 className="text-sm font-medium text-gray-500">Diagnosis Codes</h4>
+                <ul className="mt-1 text-sm text-gray-900">
+                  {extractedData.diagnosisCodes.map((code: string, index: number) => (
+                    <li key={index}>{code}</li>
+                  ))}
+                </ul>
+              </div>
+              <div className="bg-gray-50 p-4 rounded-md">
+                <h4 className="text-sm font-medium text-gray-500">Procedure Codes</h4>
+                <ul className="mt-1 text-sm text-gray-900">
+                  {extractedData.procedureCodes.map((code: string, index: number) => (
+                    <li key={index}>{code}</li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
 
       <div className="mt-8 bg-white shadow sm:rounded-lg">
         <div className="px-4 py-5 sm:p-6">
@@ -156,7 +224,7 @@ const Claims: React.FC = () => {
                           {claim.invoiceNumber}
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                          ${claim.amount.toFixed(2)}
+                          ${claim.amount ? claim.amount.toFixed(2) : '0.00'}
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
                           {claim.date}
