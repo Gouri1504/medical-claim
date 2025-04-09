@@ -1,13 +1,13 @@
 {
   "name": "medical-claim-backend",
   "version": "1.0.0",
-  "description": "AI-powered medical claim processing system backend",
-  "main": "server.js",
+  "description": "Backend for medical claims processing system",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
     "test": "jest",
-    "lint": "eslint ."
+    "test:ai": "node test-ai.js"
   },
   "keywords": [
     "medical",
@@ -21,31 +21,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1531.0",
-    "axios": "^1.8.4",
+    "@google/generative-ai": "^0.2.0",
+    "axios": "^1.6.2",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "express-rate-limit": "^7.1.5",
-    "express-validator": "^7.0.1",
-    "form-data": "^4.0.2",
-    "helmet": "^7.1.0",
+    "form-data": "^4.0.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.2.0",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
-    "natural": "^8.0.1",
-    "nodemailer": "^6.9.9",
-    "pdf-lib": "^1.17.1",
     "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "^2.16.105",
-    "tesseract.js": "^6.0.0",
     "winston": "^3.11.0"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
     "jest": "^29.7.0",
-    "nodemon": "^3.1.0",
-    "supertest": "^6.3.4"
+    "nodemon": "^3.0.1"
   }
 }

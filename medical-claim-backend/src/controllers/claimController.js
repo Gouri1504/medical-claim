@@ -140,7 +140,7 @@ exports.processClaim = async (req, res) => {
             });
         }
 
-        // Send email notification
+        // Send email notification - email service is now a no-op
         const emailResult = await emailService.sendProcessingComplete(
             user.email,
             claim._id,
@@ -148,7 +148,7 @@ exports.processClaim = async (req, res) => {
         );
 
         if (!emailResult.success) {
-            logger.error(`Failed to send email: ${emailResult.error}`);
+            logger.warn(`Email notification skipped: ${emailResult.message}`);
         }
 
         res.status(200).json({
@@ -306,7 +306,7 @@ async function processClaimWithAI(claimId) {
 
             logger.info(`Claim ${claimId} processed successfully`);
 
-            // Send processing complete email if user has email
+            // Send processing complete email if user has email - email service is now a no-op
             if (claim.user) {
                 const user = await User.findById(claim.user);
                 if (user && user.email) {
@@ -316,7 +316,7 @@ async function processClaimWithAI(claimId) {
                         result.data
                     );
                     if (!emailResult.success) {
-                        logger.warn(`Failed to send processing complete email: ${emailResult.error}`);
+                        logger.warn(`Email notification skipped: ${emailResult.message}`);
                     }
                 } else {
                     logger.warn(`No email found for user ${claim.user}`);

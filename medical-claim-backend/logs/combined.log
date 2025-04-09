@@ -1058,3 +1058,388 @@
 {"level":"info","message":"Sending PDF to Python service","timestamp":"2025-04-03T10:34:51.442Z"}
 {"level":"info","message":"Claim 67ee644bde29d3a0edd7df1d processed successfully","timestamp":"2025-04-03T10:34:52.167Z"}
 {"level":"info","message":"Processing complete email sent to abc@example.com","timestamp":"2025-04-03T10:34:55.488Z"}
+{"level":"error","message":"Email transporter verification failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bb1e3826fsm1052645b3a.119 - gsmtp","timestamp":"2025-04-09T11:32:45.337Z"}
+{"level":"error","message":"MongoDB connection error: connect ETIMEDOUT 159.41.243.26:27017","timestamp":"2025-04-09T11:33:05.359Z"}
+{"level":"error","message":"Email transporter verification failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-306dd171727sm1336378a91.32 - gsmtp","timestamp":"2025-04-09T11:33:28.140Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-09T11:33:29.764Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-09T11:33:29.780Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-09T11:34:12.409Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-09T11:34:12.423Z"}
+{"level":"warn","message":"Email service connection failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bb1d2b200sm1064405b3a.28 - gsmtp","timestamp":"2025-04-09T11:34:13.707Z"}
+{"level":"warn","message":"Email service will be disabled","timestamp":"2025-04-09T11:34:13.708Z"}
+{"level":"warn","message":"Email service connection failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bb1e381eesm1084401b3a.102 - gsmtp","timestamp":"2025-04-09T11:34:39.016Z"}
+{"level":"warn","message":"Email service will be disabled","timestamp":"2025-04-09T11:34:39.020Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-09T11:34:39.103Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-09T11:34:39.107Z"}
+{"level":"warn","message":"Email service connection failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b02a081814dsm998565a12.15 - gsmtp","timestamp":"2025-04-09T11:34:42.393Z"}
+{"level":"warn","message":"Email service will be disabled","timestamp":"2025-04-09T11:34:42.400Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-09T11:34:43.203Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-09T11:34:43.209Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:37:31.930Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:37:41.934Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-09T11:37:45.030Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-09T11:37:45.033Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:38:23.670Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-09T11:38:26.577Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-09T11:38:26.585Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:38:38.083Z"}
+{"level":"info","message":"MongoDB Connected...","timestamp":"2025-04-09T11:38:46.690Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T11:38:46.699Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:39:39.328Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:39:44.373Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:39:44.376Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:39:55.395Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:00.442Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:40:00.456Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:40:16.339Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:21.386Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:40:21.388Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:40:28.239Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:33.303Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:40:33.321Z"}
+{"level":"error","message":"MongoDB connection attempt 2 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:43.364Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:40:43.370Z"}
+{"level":"error","message":"MongoDB connection attempt 3 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:53.385Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:40:53.388Z"}
+{"level":"error","message":"MongoDB connection attempt 4 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:03.418Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:41:03.424Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:41:12.238Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:17.275Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:41:17.276Z"}
+{"level":"error","message":"MongoDB connection attempt 2 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:27.358Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:41:27.360Z"}
+{"level":"error","message":"MongoDB connection attempt 3 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:37.383Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:41:37.384Z"}
+{"level":"error","message":"MongoDB connection attempt 4 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:47.410Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T11:41:47.412Z"}
+{"level":"error","message":"MongoDB connection attempt 5 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:57.477Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:42:32.274Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T11:42:33.733Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-09T11:42:33.739Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:43:03.734Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T11:43:04.863Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T11:43:04.866Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:45:14.533Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:45:14.535Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T11:45:14.567Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T11:45:14.714Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:46:28.742Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T11:46:29.787Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T11:46:29.792Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:46:34.906Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T11:46:38.050Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T11:46:38.077Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:46:40.333Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T11:46:43.901Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T11:46:46.993Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T11:46:46.997Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:50:12.509Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:50:12.512Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T11:50:12.519Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T11:50:12.634Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:50:35.160Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:50:35.170Z"}
+{"level":"error","message":"JWT Verification Error: invalid signature","timestamp":"2025-04-09T11:50:35.176Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:50:45.146Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:50:45.148Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T11:50:45.155Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T11:50:45.263Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:52:37.603Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:52:37.604Z"}
+{"level":"error","message":"JWT Verification Error: invalid signature","timestamp":"2025-04-09T11:52:37.607Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:53:06.230Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:53:06.234Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T11:53:06.243Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T11:53:06.374Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T11:57:36.211Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T11:57:36.213Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T11:57:36.215Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T11:57:36.284Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:00:49.590Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:00:49.595Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:00:49.604Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:00:49.725Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:01:28.590Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:01:28.597Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:01:28.599Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:01:28.754Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: fileKey: Path `fileKey` is required.","timestamp":"2025-04-09T12:01:28.768Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:02:16.017Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:02:16.018Z"}
+{"level":"error","message":"JWT Verification Error: invalid signature","timestamp":"2025-04-09T12:02:16.021Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:02:29.934Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:02:29.945Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:02:29.948Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:02:30.065Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-09T12:02:30.196Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:02:47.519Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:02:47.520Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:02:47.523Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:02:47.703Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:09:07.546Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:09:07.553Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:09:07.582Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:09:08.335Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-09T12:09:08.434Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:09:54.670Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:09:54.674Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:09:54.677Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:09:54.819Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1743633692917-0n4zzp.pdf","timestamp":"2025-04-09T12:09:55.128Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1743633692917-0n4zzp.pdf","timestamp":"2025-04-09T12:09:55.129Z"}
+{"level":"error","message":"Error reading file: ENOENT: no such file or directory, open 'C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1743633692917-0n4zzp.pdf'","timestamp":"2025-04-09T12:09:55.131Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1743633692917-0n4zzp.pdf'","timestamp":"2025-04-09T12:09:55.132Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:11:39.397Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:11:39.398Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:11:39.401Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:11:39.473Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:11:51.230Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:11:51.231Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:11:51.233Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:11:51.357Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:11:51.659Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:11:51.660Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:11:51.663Z"}
+{"level":"error","message":"Error processing document: bad XRef entry","timestamp":"2025-04-09T12:11:51.865Z"}
+{"level":"error","message":"Document processing failed: bad XRef entry","timestamp":"2025-04-09T12:11:51.874Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:12:54.352Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:12:56.985Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:13:00.019Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:13:00.022Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:13:01.682Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:13:02.566Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:13:02.569Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:13:04.945Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2025-04-09T12:13:10.351Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T12:13:10.353Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:13:18.293Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:13:18.298Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:13:43.766Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:13:44.745Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:13:44.752Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:13:46.250Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:13:50.610Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:13:53.189Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ETIMEDOUT 159.41.243.26:27017","timestamp":"2025-04-09T12:14:15.396Z"}
+{"level":"info","message":"Retrying in 5 seconds...","timestamp":"2025-04-09T12:14:15.398Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:14:20.413Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:14:21.676Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:14:21.680Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:14:23.631Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:14:24.627Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:14:24.631Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:16:51.622Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:16:52.977Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:16:52.981Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:17:21.210Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:17:22.239Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:17:22.242Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:17:35.421Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:17:36.543Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:17:36.554Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:18:57.687Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:18:58.890Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:18:58.899Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:25:58.979Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:25:58.980Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:25:58.988Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:25:59.084Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-09T12:25:59.193Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:26:23.340Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:26:23.352Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:26:23.357Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:26:23.489Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:26:23.762Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:26:23.763Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:26:23.766Z"}
+{"level":"error","message":"Error processing document: bad XRef entry","timestamp":"2025-04-09T12:26:24.102Z"}
+{"level":"error","message":"Document processing failed: bad XRef entry","timestamp":"2025-04-09T12:26:24.104Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:27:39.678Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:27:41.030Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:27:41.037Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:28:02.229Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:28:02.231Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:28:02.240Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:28:02.429Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:28:02.973Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:28:02.974Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:28:02.978Z"}
+{"level":"error","message":"PDF parsing error: bad XRef entry","timestamp":"2025-04-09T12:28:03.229Z"}
+{"level":"error","message":"Document processing failed: PDF parsing error: bad XRef entry. The PDF might be corrupted or malformed.","timestamp":"2025-04-09T12:28:03.230Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:34:38.398Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:34:39.858Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:34:39.871Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:34:43.592Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:34:43.593Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:34:43.601Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:34:43.751Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:34:44.147Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:34:44.149Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:34:44.155Z"}
+{"level":"error","message":"PDF parsing error: bad XRef entry","timestamp":"2025-04-09T12:34:44.382Z"}
+{"level":"error","message":"Document processing failed: PDF parsing error: bad XRef entry. The PDF might be corrupted or malformed.","timestamp":"2025-04-09T12:34:44.383Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:42:07.988Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:42:09.294Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:42:09.301Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:42:14.310Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:42:15.472Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:42:15.480Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:42:25.205Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:42:26.596Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:42:26.603Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:42:39.291Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:42:39.293Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:42:39.302Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:42:39.510Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:42:39.863Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:42:39.866Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:42:39.872Z"}
+{"level":"error","message":"Error processing document: Illegal character: 41","timestamp":"2025-04-09T12:42:40.159Z"}
+{"level":"error","message":"Document processing failed: Illegal character: 41","timestamp":"2025-04-09T12:42:40.161Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:43:42.876Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:43:44.108Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:43:44.118Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:43:50.771Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:43:52.045Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:43:52.053Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:44:12.622Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:44:12.625Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:44:12.637Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:44:14.355Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:44:20.052Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:44:20.055Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:44:20.061Z"}
+{"level":"error","message":"PDF parsing error: bad XRef entry","timestamp":"2025-04-09T12:44:20.315Z"}
+{"level":"error","message":"Document processing failed: PDF parsing error: bad XRef entry. The PDF might be corrupted or malformed.","timestamp":"2025-04-09T12:44:20.317Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:50:48.870Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:50:50.838Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:50:50.841Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:51:01.545Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:51:04.093Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:51:04.097Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:51:12.409Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:51:18.246Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:51:20.256Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:51:20.259Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:51:46.307Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:51:46.309Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:51:46.313Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:51:46.432Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:51:46.836Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:51:46.837Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:51:46.840Z"}
+{"level":"info","message":"Sending text to Gemini for extraction","timestamp":"2025-04-09T12:51:46.984Z"}
+{"level":"error","message":"Gemini Extraction Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent: [404 Not Found] models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.","timestamp":"2025-04-09T12:51:49.178Z"}
+{"level":"error","message":"Document processing failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent: [404 Not Found] models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.","timestamp":"2025-04-09T12:51:49.180Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:54:05.513Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:54:07.398Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:54:07.401Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T12:54:11.918Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T12:54:14.325Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-04-09T12:54:14.328Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T12:55:04.619Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T12:55:04.620Z"}
+{"exp":1744285496,"iat":1744199096,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T12:55:04.625Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T12:55:04.815Z"}
+{"level":"info","message":"Processing document with key: claims/67eda035def5d4a3410f2841/1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:55:05.525Z"}
+{"level":"info","message":"Reading file from path: C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1744200699476-m78e0n.pdf","timestamp":"2025-04-09T12:55:05.526Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T12:55:05.528Z"}
+{"level":"info","message":"Sending text to Gemini for extraction","timestamp":"2025-04-09T12:55:05.913Z"}
+{"level":"error","message":"JSON parsing error: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","timestamp":"2025-04-09T12:55:08.959Z"}
+{"level":"info","message":"Claim 67f66e2898086346908c97f7 processed successfully","timestamp":"2025-04-09T12:55:09.123Z"}
+{"level":"info","message":"Email service is disabled - using no-op implementation","timestamp":"2025-04-09T13:01:31.620Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2025-04-09T13:01:34.985Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-09T13:01:34.989Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:01:36.801Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:01:36.802Z"}
+{"exp":1744290096,"iat":1744203696,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:01:36.805Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:01:36.955Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:01:37.065Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:01:37.066Z"}
+{"exp":1744290096,"iat":1744203696,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:01:37.068Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:01:37.697Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:01:59.824Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:01:59.825Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:01:59.828Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:02:00.095Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:02:00.227Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:02:00.228Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:02:00.231Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:02:00.362Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:03:00.896Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:03:00.897Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:03:00.899Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:03:01.254Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:03:01.398Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:03:01.399Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:03:01.401Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:03:01.611Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:03:18.010Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:03:18.088Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:03:18.262Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:03:18.522Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:03:18.727Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:03:18.729Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:03:18.736Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:03:19.006Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:04:22.112Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:04:22.112Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:04:22.115Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:04:22.289Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:04:22.721Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:04:22.722Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:04:22.726Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:04:23.010Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:04:23.252Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:04:23.253Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:04:23.254Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:04:23.419Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:04:36.833Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:04:36.834Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:04:36.835Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:04:36.945Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:04:37.149Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:04:37.155Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:04:37.161Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:04:37.340Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:04:58.864Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:04:58.864Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:04:58.866Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:04:59.000Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:02.860Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:02.861Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:02.862Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:02.952Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:03.853Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:03.855Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:03.858Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:04.069Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:17.680Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:17.681Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:17.685Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:17.896Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:18.018Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:18.020Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:18.048Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:18.226Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:22.081Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:22.082Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:22.085Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:22.282Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:22.418Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:22.437Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:22.439Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:22.703Z"}
+{"level":"info","message":"Processing document buffer","timestamp":"2025-04-09T13:05:32.697Z"}
+{"level":"info","message":"Sending text to Gemini for extraction","timestamp":"2025-04-09T13:05:36.145Z"}
+{"level":"error","message":"JSON parsing error: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","timestamp":"2025-04-09T13:05:40.007Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:40.715Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:40.717Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:40.722Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:41.140Z"}
+{"level":"info","message":"Token received:","timestamp":"2025-04-09T13:05:41.684Z"}
+{"level":"info","message":"Verifying token with secret:","timestamp":"2025-04-09T13:05:41.685Z"}
+{"exp":1744290119,"iat":1744203719,"id":"67eda035def5d4a3410f2841","level":"info","message":"Token decoded:","timestamp":"2025-04-09T13:05:41.817Z"}
+{"level":"info","message":"User found:","timestamp":"2025-04-09T13:05:41.957Z"}
+{"level":"error","message":"No token provided","timestamp":"2025-04-09T13:06:04.387Z"}
+{"level":"error","message":"No token provided","timestamp":"2025-04-09T13:06:04.489Z"}

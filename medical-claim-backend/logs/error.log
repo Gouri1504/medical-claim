@@ -133,3 +133,47 @@
 {"level":"error","message":"Processing complete email failed: Cannot read properties of undefined (reading 'patientName')","timestamp":"2025-04-03T10:25:25.177Z"}
 {"level":"error","message":"Error sending processing complete email: connect ECONNREFUSED 127.0.0.1:587","timestamp":"2025-04-03T10:26:26.405Z"}
 {"level":"error","message":"Error sending processing complete email: Missing credentials for \"PLAIN\"","timestamp":"2025-04-03T10:27:47.851Z"}
+{"level":"error","message":"Email transporter verification failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bb1e3826fsm1052645b3a.119 - gsmtp","timestamp":"2025-04-09T11:32:45.337Z"}
+{"level":"error","message":"MongoDB connection error: connect ETIMEDOUT 159.41.243.26:27017","timestamp":"2025-04-09T11:33:05.359Z"}
+{"level":"error","message":"Email transporter verification failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-306dd171727sm1336378a91.32 - gsmtp","timestamp":"2025-04-09T11:33:28.140Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:39:44.373Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:00.442Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:21.386Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:33.303Z"}
+{"level":"error","message":"MongoDB connection attempt 2 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:43.364Z"}
+{"level":"error","message":"MongoDB connection attempt 3 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:40:53.385Z"}
+{"level":"error","message":"MongoDB connection attempt 4 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:03.418Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:17.275Z"}
+{"level":"error","message":"MongoDB connection attempt 2 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:27.358Z"}
+{"level":"error","message":"MongoDB connection attempt 3 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:37.383Z"}
+{"level":"error","message":"MongoDB connection attempt 4 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:47.410Z"}
+{"level":"error","message":"MongoDB connection attempt 5 failed: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-09T11:41:57.477Z"}
+{"level":"error","message":"JWT Verification Error: invalid signature","timestamp":"2025-04-09T11:50:35.176Z"}
+{"level":"error","message":"JWT Verification Error: invalid signature","timestamp":"2025-04-09T11:52:37.607Z"}
+{"level":"error","message":"Create Claim Error: Claim validation failed: fileKey: Path `fileKey` is required.","timestamp":"2025-04-09T12:01:28.768Z"}
+{"level":"error","message":"JWT Verification Error: invalid signature","timestamp":"2025-04-09T12:02:16.021Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-09T12:02:30.196Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-09T12:09:08.434Z"}
+{"level":"error","message":"Error reading file: ENOENT: no such file or directory, open 'C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1743633692917-0n4zzp.pdf'","timestamp":"2025-04-09T12:09:55.131Z"}
+{"level":"error","message":"Document Processing Error: ENOENT: no such file or directory, open 'C:\\Users\\gouri\\Downloads\\medical-claim\\backend\\medical-claim-backend\\uploads\\claims\\67eda035def5d4a3410f2841\\1743633692917-0n4zzp.pdf'","timestamp":"2025-04-09T12:09:55.132Z"}
+{"level":"error","message":"Error processing document: bad XRef entry","timestamp":"2025-04-09T12:11:51.865Z"}
+{"level":"error","message":"Document processing failed: bad XRef entry","timestamp":"2025-04-09T12:11:51.874Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2025-04-09T12:13:10.351Z"}
+{"level":"error","message":"MongoDB connection attempt 1 failed: connect ETIMEDOUT 159.41.243.26:27017","timestamp":"2025-04-09T12:14:15.396Z"}
+{"level":"error","message":"Create Claim Error: E11000 duplicate key error collection: test.claims index: invoiceNumber_1 dup key: { invoiceNumber: null }","timestamp":"2025-04-09T12:25:59.193Z"}
+{"level":"error","message":"Error processing document: bad XRef entry","timestamp":"2025-04-09T12:26:24.102Z"}
+{"level":"error","message":"Document processing failed: bad XRef entry","timestamp":"2025-04-09T12:26:24.104Z"}
+{"level":"error","message":"PDF parsing error: bad XRef entry","timestamp":"2025-04-09T12:28:03.229Z"}
+{"level":"error","message":"Document processing failed: PDF parsing error: bad XRef entry. The PDF might be corrupted or malformed.","timestamp":"2025-04-09T12:28:03.230Z"}
+{"level":"error","message":"PDF parsing error: bad XRef entry","timestamp":"2025-04-09T12:34:44.382Z"}
+{"level":"error","message":"Document processing failed: PDF parsing error: bad XRef entry. The PDF might be corrupted or malformed.","timestamp":"2025-04-09T12:34:44.383Z"}
+{"level":"error","message":"Error processing document: Illegal character: 41","timestamp":"2025-04-09T12:42:40.159Z"}
+{"level":"error","message":"Document processing failed: Illegal character: 41","timestamp":"2025-04-09T12:42:40.161Z"}
+{"level":"error","message":"PDF parsing error: bad XRef entry","timestamp":"2025-04-09T12:44:20.315Z"}
+{"level":"error","message":"Document processing failed: PDF parsing error: bad XRef entry. The PDF might be corrupted or malformed.","timestamp":"2025-04-09T12:44:20.317Z"}
+{"level":"error","message":"Gemini Extraction Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent: [404 Not Found] models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.","timestamp":"2025-04-09T12:51:49.178Z"}
+{"level":"error","message":"Document processing failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent: [404 Not Found] models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.","timestamp":"2025-04-09T12:51:49.180Z"}
+{"level":"error","message":"JSON parsing error: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","timestamp":"2025-04-09T12:55:08.959Z"}
+{"level":"error","message":"JSON parsing error: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","timestamp":"2025-04-09T13:05:40.007Z"}
+{"level":"error","message":"No token provided","timestamp":"2025-04-09T13:06:04.387Z"}
+{"level":"error","message":"No token provided","timestamp":"2025-04-09T13:06:04.489Z"}
